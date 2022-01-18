@@ -5,4 +5,5 @@
 - HTML/CSS file generated inside ```dist``` folder
 
 
-![cuddly-chainsaw](https://user-images.githubusercontent.com/26530136/149893296-0ac15ff2-daa0-4d4e-8cba-bf5478226c75.PNG)
+
+![cuddly-chainsaw](https://user-images.githubusercontent.com/26530136/149893623-861a7643-4317-4d6d-944c-f10aec9e39db.PNG)
